@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'wordpress-001.c4yvp2.0001.usw1.cache.amazonaws.com');
  
-define('WP_HOME','http://theyoga.network');
-define('WP_SITEURL','http://theyoga.network');
+define('WP_HOME','https://www.theyoga.network');
+define('WP_SITEURL','https://www.theyoga.network');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
