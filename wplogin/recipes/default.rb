@@ -1,3 +1,1 @@
-file '/srv/www/wordpress/current/wp-login.php' do
-    action :none
-end
+file '/srv/www/wordpress/current/wp-login.php'
